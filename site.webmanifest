@@ -1,0 +1,15 @@
+{
+  "name": "Cyvelshen Khesley Babatid Portfolio",
+  "short_name": "CKB Portfolio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f0e5",
+  "theme_color": "#4b2212",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
